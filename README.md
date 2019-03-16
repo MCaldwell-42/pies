@@ -52,10 +52,17 @@ alert(text)
 - [ ] Item #2
 - [x] Item #3 -->
 
-#Example of readme
 
-#Pie
+# Pie
 Makes an array of pies
+
+## Images
+
+![Pie Picture](https://raw.githubusercontent.com/MCaldwell-42/pies/master/piesPic.png)
+
+
+
+
 
 ## Getting Started
 
